@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Control Systems, Electronics, Java, Machine Learing, Python, C/C++, Robotics, Mechanical Design
-percentage: 65, 85, 70, 80, 65, 90, 85, 80, 60
+aspects: GitHub, Control Systems, Electronics, Java, Machine Learing, Python, C/C++, Robotics, Mechanical Design, Embedded Linux
+percentage: 75, 85, 70, 80, 75, 90, 85, 95, 70, 75
