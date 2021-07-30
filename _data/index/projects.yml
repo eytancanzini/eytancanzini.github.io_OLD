@@ -6,17 +6,25 @@
   gh_user: eytancanzini
   repo: epuck-autonomous-project
   img: /static/assets/img/landing/epuck.png
-  desc: TThis project was an autonomous ePuck that used two different methods for navigation. The first is a virtual force field that stops the ePuck from interacting with any obstacles, and the second is an artifical potential field that orientates the robot to the area with the lowest obstacle value.
+  desc: This project was an autonomous ePuck that used two different methods for navigation. The first is a virtual force field that stops the ePuck from interacting with any obstacles, and the second is an artifical potential field that orientates the robot to the area with the lowest obstacle value.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Helios Solar Project
+  i18n: helios
+  gh_user: eytancanzini
+  repo: heliosproject
+  img: /static/assets/img/landing/sun-img.png
+  desc: This is a potential open-source project that aims to design and build a fully autonomous solar tracking panel that orientates itself to face the Sun, thus increasing the electrical output of the panel. I am hoping to build this project further.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Autonomous Movement Algorithms
+  i18n: slam_car
+  gh_user: eytancanzini
+  repo: slam_car
+  img: /static/assets/img/landing/car.png
+  desc: One area I want to specialise more in is autonomous movement algorithms. After spending some time with two different textbooks, Planning Algorithms and Probabilistic Robotics, I want to build an architecture for autonomous movement using a variety of different algorithms. Eventually I will branch out into deep learning, but this is a future step.
+
+- name: Time Series Forecasting
+  i18n: ml_forecasting
+  gh_user: eytancanzini
+  repo: ml_forecasting
+  img: /static/assets/img/landing/stock.png
+  desc: This was a week long project to use neural networks and time series forecasting to build a stock price predictor. The algorithm was sucessful on certain stocks once trained and could do with some extra work designing certain areas of the algorithm.
