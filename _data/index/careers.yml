@@ -1,28 +1,56 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
-  present: true
 
 - name:
-    detail: Undergraduate Aerospace Engineering Degree
+    detail: University of Sheffield & Airbus UK
+    i18n: postgrad-degree
+  desc:
+    detail: Following from my Masters research, I was offered a postraduate doctoral placement by Airbus to continue my research into intelligent machines and autonomous systems within manufacturing. For more information about my current work, please see my blog or my Google Scholar page.
+    i18n: company_d_desc
+  date:
+    detail: July 2021 - Present; Sheffield, UK
+    i18n: company_d_date
+  job:
+    detail: Postgraduate Doctoral Researcher
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Sheffield
+    i18n: masters-degree
+  desc:
+    detail: Returning to the University of Sheffield, I completed my Masters degree in Aerospace Engineering with a specialisation in autonomous systems. As my degree is part of an integrated department, my modules for this semester were centered around robotics, AI and decision systems. My dissertation was designing a novel method for component insertion within an aerostructure assembly, partnered with Airbus UK.
+    i18n: company_c_desc
+  date:
+    detail: Sept. 2020 - July 2021; Sheffield, UK
+    i18n: company_c_date
+  job:
+    detail: MEng Aerospace Engineering 
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: ASM Assembly Systems Ltd. 
+    i18n: asm-placement
+  desc:
+    detail: As part of my undergraduate integrated degree, I undertook a year placement as an Automation Engineer at ASM Assembly Systems Ltd. My job was centered around developing innovative methods and systems for improving shopfloor production methods. These included autonomous robotics for assembly processes and predictive maintenace using machine learning.
+    i18n: company_a_desc
+  date:
+    detail: July 2019 - July 2020; Weymouth, UK
+    i18n: company_a_date
+  job:
+    detail: Automation Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Sheffield
     i18n: aero-undergrad
   desc:
     detail: I started my BEng degree in Aerospace Engineering, with a capstone project being to build a fully-functioning semi-autonomous UAV. I specialised in control systems and avionics, where my responsibility for the project was to design the control architecture and avionics infrastructure for the drone.
     i18n: company_b_desc
   date:
-    detail: Sept. 2016 - Jun. 2019
+    detail: Sept. 2016 - Jun. 2019; Sheffield, UK
     i18n: company_b_date
   job:
     detail: BEng Aerospace Engineering
