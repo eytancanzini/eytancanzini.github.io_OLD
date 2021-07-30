@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Autonomous ePuck Movement
+  i18n: epuck
+  gh_user: eytancanzini
+  repo: epuck-autonomous-project
+  img: /static/assets/img/landing/epuck.png
+  desc: TThis project was an autonomous ePuck that used two different methods for navigation. The first is a virtual force field that stops the ePuck from interacting with any obstacles, and the second is an artifical potential field that orientates the robot to the area with the lowest obstacle value.
 
 - name: Python
   i18n: cpython
