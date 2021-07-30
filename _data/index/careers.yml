@@ -16,15 +16,15 @@
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Undergraduate Aerospace Engineering Degree
+    i18n: aero-undergrad
   desc:
-    detail: I worked at Company B ...
+    detail: I started my BEng degree in Aerospace Engineering, with a capstone project being to build a fully-functioning semi-autonomous UAV. I specialised in control systems and avionics, where my responsibility for the project was to design the control architecture and avionics infrastructure for the drone.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Sept. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: BEng Aerospace Engineering
     i18n: company_b_job
   icon: fa-plus-square
