@@ -6,7 +6,7 @@
   gh_user: eytancanzini
   repo: epuck-autonomous-project
   img: /static/assets/img/landing/epuck.png
-  desc: This project was an autonomous ePuck that used two different methods for navigation. The first is a virtual force field that stops the ePuck from interacting with any obstacles, and the second is an artifical potential field that orientates the robot to the area with the lowest obstacle value.
+  desc: This project was an autonomous ePuck that used two different methods for navigation. The first is a virtual force field that protects the ePuck, and the second is an artifical potential field that directs the ePuck to the goal.
 
 - name: Helios Solar Project
   i18n: helios
